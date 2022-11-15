@@ -12,7 +12,7 @@
    <div class="document">
     <nav>
         <ul>
-            <li><a href= "proscuts.php">products"></a></li>
+            <li><a href="products.php">products"></a></li>
             <li><a href="Register.php">Register</a></li>
             <li><a href="Login.php">Login</a></li>
         </ul>

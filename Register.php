@@ -23,8 +23,6 @@
         $_session_start();
         require_once "registration.php";
         include_once "feedback.php";
-
-
         ?>
         <form method="post" action="">
             <div>
@@ -44,7 +42,7 @@
                 <label for= "confirm_password">confirm password</label>
                 <input type="password" name="confirm_password" id="confirm_password" required>
             </div>
-            <input type="submit" value="register">
+            <input type="submit" value="Register">
         </form>
     </main>
    </div> 
